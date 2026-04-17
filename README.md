@@ -20,7 +20,7 @@ I am a Backend Software Engineer with almost 5 years of experience architecting 
 * **Databases**: PostgreSQL, MongoDB, Redis.
 
 ### 💻 Featured Personal Projects
-* **[KONNECTA](https://github.com/albertescote/weekend-tracker)**: Engineered a mobile-first Progressive Web App (PWA) using Next.js 16, React 19, and TypeScript to streamline group event coordination and activity scheduling.
+* **[KONNECTA](https://github.com/albertescote/konnecta)**: Engineered a mobile-first Progressive Web App (PWA) using Next.js 16, React 19, and TypeScript to streamline group event coordination and activity scheduling.
 * **[BookaBand](https://github.com/albertescote/bookaband-tfm-backend)**: My Master's Thesis. Designed and implemented a full-stack web platform connecting clients and musicians, utilizing Next.JS, Nest.JS, PostgreSQL, MongoDB, and Redis.
 
 ### 📫 How to reach me
